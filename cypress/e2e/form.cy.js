@@ -1,8 +1,8 @@
 describe('Testing form', () => {
 
   const name = 'Testing'
-  const email = 'testing@testing.com'
-  const feedback = 'Testing form using Cypress'
+  const email = 'connor.fabiano+domainForSaleOffer@gmail.com'
+  const feedback = 'Domain for Sale Offer'
 
   beforeEach(() => {
     cy.visit('/')
